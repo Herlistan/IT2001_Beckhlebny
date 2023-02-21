@@ -5,6 +5,6 @@
   
 ### 1. Hello snikers! Делаем заголовок 3-го уровня.
 2. **And** *me*! Делаем текст жирным и курсивным.  
-    2.1. Click "Tab" and text! Делаем отступ.
+    2.1. Indent! Делаем отступ.
 3. Sample text.
 4. End of Ordered Lists.
