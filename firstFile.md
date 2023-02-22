@@ -3,6 +3,7 @@
 
 ![NMa](https://user-images.githubusercontent.com/125956002/220421595-826ec5d8-5f45-467a-8ba2-8e074458a979.jpg)
   
+***
 ### 1. Hello snikers! Делаем заголовок 3-го уровня.
 2. **And** *me*! Делаем текст жирным и курсивным.  
     2.1. Indent! Делаем отступ.
